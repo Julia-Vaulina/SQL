@@ -71,7 +71,7 @@ INSERT INTO Singers_albums (singer_ID, album_ID)
             (8, 5),
             (9, 6),
             (10, 7),
-            (4, 7)
+            (4, 7),
             (11, 11);
 
 INSERT INTO Singers_genres (singer_ID, genre_ID) 
